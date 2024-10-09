@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Ziidan
 
-<!--
-**dann0204/dann0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Student of UPN "Veteran" Jawa Timur, Majoring Informatics. Specializing in **UI/UX Designer**, **Cloud Computing**, **Cybersecurity**, **Networking Junior**, **Machine Learning** and Tech Enthusiast. I’m constantly pushing the boundaries of innovation by integrating AI into real-world solutions and streamlining operations with cloud platforms. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Why I'm Here
+I use GitHub to:
+- 📂 Share my code and projects
+- ☁️ Learn and explore cloud technologies and AI implementations
+- 🤝 Collaborate with the amazing global developer community
+
+### My Top Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dann0204&layout=compact&theme=dark)
+
+---
+
+### Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-fattah-ziidan)
+
+---
