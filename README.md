@@ -15,7 +15,11 @@ I use GitHub to:
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dann0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dann0204&layout=compact&theme=algolia"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dann0204&amp;theme=react-dark">
+</p>
+
+### My Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dann0204&amp;theme=react-dark"/>
 </p>
 
 
