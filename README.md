@@ -15,8 +15,8 @@ I use GitHub to:
 ### 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dann0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dann0204&layout=compact&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dann0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_buster=123" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dann0204&layout=compact&theme=algolia&cache_buster=123" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ I use GitHub to:
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dann0204&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dann0204&theme=react-dark&hide_border=true&area=true&cache_buster=123" />
 </p>
 
 ---
