@@ -15,8 +15,8 @@ I use GitHub to:
 ### 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dann0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_buster=123" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dann0204&layout=compact&theme=algolia&cache_buster=123" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dann0204&layout=compact)
+![Ziidan GitHub stats](https://github-readme-stats.vercel.app/api?username=dann0204&show_icons=true&bg_color=00000000)
 </p>
 
 ---
