@@ -1,5 +1,3 @@
-@@ -1,189 +1,168 @@
-# Hi there, I'm Muhammad Fattah Ziidan! 👋
 <h1 align="center">Hi there, I'm Muhammad Fattah Ziidan! 👋</h1>
 
 <p align="center">
@@ -226,24 +224,11 @@ Design tool: Figma
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dann0204&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dann0204&theme=tokyonight"
-    alt="GitHub statistics for dann0204"
-    width="49%"
-  />
+
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dann0204&theme=tokyonight"
     alt="Most used commit languages for dann0204"
     width="49%"
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dann0204&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%"/>
-  <img
-    src="https://streak-stats.demolab.com?user=dann0204&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak for dann0204"
-    width="70%"
   />
 </p>
 
