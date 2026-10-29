@@ -220,16 +220,17 @@ Design tool: Figma
 
 ## 📊 GitHub Statistics
 
-📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dann0204&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dann0204&theme=tokyonight"
-    alt="Most used commit languages for dann0204"
-    width="49%"
-  />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com?user=dann0204&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dann0204&theme=tokyonight" alt="Most used commit languages for dann0204" width="100%" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
