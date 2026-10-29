@@ -4,10 +4,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Informatics+Student;Web+Developer;UI%2FUX+Designer;Cloud+Computing+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Informatics+Student;Web+Developer;UI%2FUX+Designer;Cloud+Computing+Enthusiast;Always+Learning+%26+Building"
-    alt="Typing SVG"
-  />
 </p>
 
 <p align="center">
@@ -227,15 +223,6 @@ Design tool: Figma
 ## 📊 GitHub Statistics
 
 📊 GitHub Statistics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dann0204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Muhammad Fattah Ziidan's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dann0204&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dann0204&theme=tokyonight"
-    alt="GitHub profile summary for dann0204"
-    width="100%"
-  />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dann0204&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
